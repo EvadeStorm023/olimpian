@@ -1,0 +1,11 @@
+h1
+{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+}
+
+#mycanvas
+{
+    border: 8px solid darkgray;
+    background-color: white;
+}
